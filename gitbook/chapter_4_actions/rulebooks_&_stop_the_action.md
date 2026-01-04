@@ -44,6 +44,7 @@ Instead of pushing the red button:
                 say "Nope -- you never took the sponge."
 
 test me with "take sponge / i / press red button"
+```
 
 For technical reasons, it’s necessary to test using the odd phrase “we have taken the sponge”. Testing “if the player has taken the sponge” won’t compile. But the point is this: If the Before rule (“Before taking the sponge”) ends with “rule succeeds”, as shown above, running the test by typing TEST ME will reveal that we have indeed taken the sponge. On the other hand, if you comment out “rule succeeds.” (by putting square brackets around it) and uncomment “stop the action.” (by removing the brackets), when you run TEST ME you’ll see that apparently the player has _not_ taken the sponge, even though it’s now in the player’s inventory.
 
