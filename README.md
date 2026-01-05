@@ -1,4 +1,4 @@
-# Inform 7 **Handbook v3.0** is avaibles
+# Inform 7 **Handbook v3.0** is available
 
 Can find [here in Dropbox](https://www.dropbox.com/scl/fi/w01ej99242lwnewbalvjg/Inform_Handbook_3.pdf?rlkey=b1w77pmoeoidiex5kaeers9hz&dl=0) or in this repository.
 I'll upgrade the [**readthedocs version**](https://inform-7-handbook.readthedocs.io) from Gitlab. Follow build from [here](https://app.readthedocs.org/projects/inform-7-handbook/builds/?version__slug=latest).
